@@ -1,6 +1,11 @@
-# Capstone Example Jekyll Website
+# Nicole Reardon
+## nreardon@ucsd.edu
+### B08: Rinne Han & Hungjen Wang
 
-This is about as **barebones** as a Jekyll site can be. All I've done is embed a plotly plot here.
+- **What is the most interesting topic covered in your domain this quarter?**
 
-<iframe src="assets/example-map.html" width=800 height=600 frameBorder=0></iframe>
+- **Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
 
+- **What is a potential change you’d make to the approach taken in your current Quarter 1 Project?**
+
+- **What other techniques would you be interested in using in your project?**
